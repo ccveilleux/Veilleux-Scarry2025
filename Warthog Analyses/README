@@ -1,4 +1,6 @@
-This folder contains data used in the genomic intraspecific analyses of OPN1LW in warthogs.
+This folder contains data used in the genomic intraspecific analyses of OPN1LW in warthogs. Raw genomic reads were downloaded from SRA and published by:
+Garcia-Erill, Genís, Christian H F Jørgensen, Vincent B Muwanika, Xi Wang, Malthe S Rasmussen, Yvonne A de Jong, Philippe Gaubert, et al. 2022. “Warthog Genomes Resolve an Evolutionary Conundrum and Reveal Introgression of Disease Resistance Genes.” Molecular Biology and Evolution 39 (7): msac134. https://doi.org/10.1093/molbev/msac134.
+
 
 File: CommonWarthog_Exon3.tar.gz
   Description: Folder containing .bam and .bai files for 49 common warthogs (Phacochoerus africanus)* for OPN1LW* exon 3 generated from raw reads downloaded from Sequencing Read Archive (SRA) and extracted, following quality control assessment and mapping, using samtools.
