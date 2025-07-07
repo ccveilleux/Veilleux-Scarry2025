@@ -3,14 +3,14 @@ Fasta alignments of OPN1LW exons 3, 4, and 5 for different taxonomic groups. Seq
 For each exon, the sequences are grouped by taxonomic order in the following files: Afrosoricia-Pholidota-Tubulidentata, Artiodactyla, Carnivora, Chiroptera, Dermoptera-Scandentia, Eulipotyphyla-Macroscelidea, Lagomorpha, Perissodactyla, Pilosa-Cingulata, Proboscidea-Sirenia, Hyracoidea, Rodentia. The location of the critical tuning site in this exon for each file is listed in Five_sites_locations_for_order_alignments.xlsx.
 
 Files include:
-<b>File: Order_Alignments-Exon3.tar.gz</b>
+**File: Order_Alignments-Exon3.tar.gz**
   Description: This file contains a g-zipped folder of sequence alignments for Exon 3 across mammalian clades.
 
-<b>File: Order_Alignments-Exon5.tar.gz</b>
-  Description: This file contains a g-zipped folder of sequence alignments for Exon 5 across mammalian clades.
-
-<b>File: Order_Alignments-Exon4.tar.gz</b>
+**File: Order_Alignments-Exon4.tar.gz**
   Description: This file contains a g-zipped folder of sequence alignments for Exon 4 across mammalian clades. 
 
- <b>File: Five_sites_locations_for_order_alignments.xlsx</b>
+**File: Order_Alignments-Exon5.tar.gz**
+  Description: This file contains a g-zipped folder of sequence alignments for Exon 5 across mammalian clades.
+
+**File: Five_sites_locations_for_order_alignments.xlsx**
   Description: Summary of the location of each of the canonical five critical tuning sites in exon 3, 4, and 5 in each clade-based sequence alignments.
