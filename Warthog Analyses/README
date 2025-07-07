@@ -1,0 +1,25 @@
+This folder contains data used in the genomic intraspecific analyses of OPN1LW in warthogs.
+
+File: CommonWarthog_Exon3.tar.gz
+  Description: Folder containing .bam and .bai files for 49 common warthogs (Phacochoerus africanus)* for OPN1LW* exon 3 generated from raw reads downloaded from Sequencing Read Archive (SRA) and extracted, following quality control assessment and mapping, using samtools.
+
+File: CommonWarthog_Exon4.tar.gz
+  Description: Folder containing .bam and .bai files for 49 common warthogs (Phacochoerus africanus)* for OPN1LW* exon 4 generated from raw reads downloaded from SRA and extracted, following quality control assessment and mapping, using samtools.
+
+File: CommonWarthog_Exon5.tar.gz
+  Description: Folder containing .bam and .bai files for 49 common warthogs (Phacochoerus africanus) for* OPN1LW* exon 5 generated from raw reads downloaded from SRA and extracted, following quality control assessment and mapping, using samtools.
+
+File: DesertWarthog_Exon3.tar.gz
+  Description: Folder containing .bam and .bai files for 6 desert warthogs (Phacochoerus aethiopicus) for* OPN1LW* exon 3 generated from raw reads downloaded from SRA and extracted, following quality control assessment and mapping, using samtools.
+
+File: DesertWarthog_Exon4.tar.gz
+  Description: Folder containing .bam and .bai files for 6 desert warthogs (Phacochoerus aethiopicus) for* OPN1LW* exon 4 generated from raw reads downloaded from SRA and extracted, following quality control assessment and mapping, using samtools.
+
+File: DesertWarthog_Exon5.tar.gz
+  Description: Folder containing .bam and .bai files for 6 desert warthogs (Phacochoerus aethiopicus) * for OPN1LW* exon 5 generated from raw reads downloaded from SRA and extracted, following quality control assessment and mapping, using samtools.
+
+File: Warthog_Genome_Bioinformatics_Code.mak
+  Description: Markdown file of code used for bioinformatics pipeline to process warthog raw genome data from Sequencing Read Archive.
+
+File: Warthog_Genomes_Metadata.xlsx
+  Description: Datasheet of metadata for warthog genomic analysis using reads from SRA
