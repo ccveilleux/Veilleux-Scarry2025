@@ -1,0 +1,12 @@
+This folder contains the .fasta alignments and phylogenetic trees of mammal species used in the ancestral state reconstruction analysis, the DNASP analysis, and the intraspecific variation analysis included in the Veilleux & Scarry publication.
+
+The files available include:
+
+**File: All-Species-IQTree.fasta**
+  Description: Fasta-aligned OPN1LW sequences encompassing exons 3, 4, and 5 (no introns) for 368 mammal species. This file was used in an IQ-Tree 2 analysis to reconstruct ancestral OPN1LW haplotypes. Exons were individually downloaded from NCBI Genome or Ensembl and combined into one sequence encompassing exons 3-5 in Geneious Prime (Biomatters, Ltd.) Sequences were aligned using the Geneious alignment tool (v. 1.2.3) with the default settings (automatically determine direction, global alignment with free end gaps, 65% similarity cost matrix, gap open penalty = 12, gap extension penalty = 3, refinement iterations = 2). This dataset includes species with putatively intact genes that were missing some sequence data.
+
+**File: Consensus_IQTree_includingmissing.newick**
+  Description: This phylogenetic tree was generated for the 368 mammal species in  the IQ-Tree 2 analysis. To generate this tree, we generated 1000 phylogenetic trees using the VertLife server (https://vertlife.org/), then  and identified a majority-rule consensus tree.
+
+**File: Mammal_OPN1LW_for_DNASP.fasta**
+  Description: Fasta alignment of exons 3, 4, and 5 for 372 mammal species that was used to calculate OPN1LW interspecific diversity measures in DnaSP 6.
