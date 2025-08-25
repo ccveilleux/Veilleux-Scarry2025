@@ -1,1 +1,13 @@
+This folder contains the .R scripts for the intraspecific variation analysis included in the Veilleux & Scarry publication.
 
+The files available include:
+
+##INTRASPECIFIC VARIATION ANALYSIS##
+*File: Number of genomes and polymorphism presence.R*
+  Description: R code to run a phylogenetic binomial regression across the tree block using the ‘phyloglm’ command from the package phylolm. The code uses the first dataset from Dataset S2 – Intraspecific Variation and the complete block of 1000 trees for the 368 mammal species. Tips for species without multiple genomes available are removed prior to running the analysis, and code for Figure S3 is included.  
+
+*File: Frequency of variant types2.R*
+  Description: R code to run binomial regressions to examine differences in the frequency of synonymous, nonsynonymous, and indel mutations for 44 species with intraspecific variation was present among the genomes available. The first analysis runs a phylogenetic GLMM (Poisson family) across the tree block using the ‘pglmm_compare’ command from the package phyr. No variance was present in the random effect, so a phylogenetic Poisson GLM follows using the ‘phyloglm’ command from the package phylolm. The third analysis included is a non-phylogenetic Poisson GLM that includes the number of available genomes and number of potential mutation sites as offset variables. The code uses the second dataset from Dataset S2 – Intraspecific Variation and the complete block of 1000 trees for the 368 mammal species. Tips for species without intraspecific variation are removed prior to running the analysis, and code for Figure S4 is included.  
+
+*File: tree-VertLife2-27-25.nex*
+  Description: Block of 1000 trees downloaded from the VertLife server for the 368 mammal species.
